@@ -1,0 +1,94 @@
+body{
+  margin:0;
+  padding:0;
+}
+
+
+.pic{
+    position:relative;
+    /* Set a specific height */
+    height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#secondfood{
+  position: relative;
+  background-image: url("img/AID.jpg")
+}
+#return{
+  position:relative;
+  background-image:url("img/UCLA.jpg")
+}
+#collegebackground{
+position:relative;
+  background-image: url("img/ucla-.jpeg");
+}
+#fees{
+  position: relative;
+  background-image: url("img/money.jpg")
+}
+#thirdfood{
+  position:relative;
+  background-image:url("img/Majors.jpg");
+}
+#funfact{
+  position: relative;
+  background-image: url("img/facts.jpg")
+}
+#CP{
+  position: relative;
+  background-image: url("img/CP.jpg")
+}
+#PO{
+  position: relative;
+  background-image: url("img/PO.jpg")
+}
+#INT{
+  position: relative;
+  background-image: url("img/inter.jpg")
+}
+#CA{
+  position: relative;
+  background-image: url("img/CAA.jpg")
+}
+#US{
+  position: relative;
+  background-image: url("img/USA.jpg");
+}
+#friedchicken{
+  color:lightblue;
+}
+#friednoodles{
+  color:lightgreen;
+}
+#chocolatebis{
+  color:lightyellow;
+}
+#facts{
+  color:gold;
+}
+#home{
+  color:GreenYellow;
+}
+#com{
+  color:IndianRed;
+}
+#black{
+  color:red;
+}
+h2{
+  color:white;
+  position:absolute;
+  top:250px;
+  text-align: center;
+  width:100%;
+}
+
+.description{
+  font-size:20px;
+  margin: 100px;
+  background-color:white;
+}
